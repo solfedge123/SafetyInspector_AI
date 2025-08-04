@@ -1,6 +1,3 @@
----
-title: AI Safety Inspector
----
 
 #  AI Safety Inspector
 
